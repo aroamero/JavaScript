@@ -1,2 +1,2 @@
 # JavaScript
-This repository is used for JavaScript beginner learning.
+This repository is used for beginner JavaScript and Github CLI learning.
